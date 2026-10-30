@@ -1,6 +1,7 @@
 [package]
-version = "0.1.0"
+version = "0.1.1"
 name = { en = "Juya AI Daily", zh = "橘鸦AI早报" }
 summary = { en = "Read the Juya AI daily news digest by date and section", zh = "按日期、小节读橘鸦AI早报" }
 author = "SHORiN-KiWATA"
 icon = "newspaper"
+logo = "logo.webp"
